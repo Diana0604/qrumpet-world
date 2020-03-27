@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Qrumpet",
-"dataUrl": "QrumpetWorld-1.0.data.unityweb",
-"wasmCodeUrl": "QrumpetWorld-1.0.wasm.code.unityweb",
-"wasmFrameworkUrl": "QrumpetWorld-1.0.wasm.framework.unityweb",
+"dataUrl": "QrumpetWorld.data.unityweb",
+"wasmCodeUrl": "QrumpetWorld.wasm.code.unityweb",
+"wasmFrameworkUrl": "QrumpetWorld.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
